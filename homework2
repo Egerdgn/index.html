@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ege ERDOĞAN</h1>
+    <h2>HAKKIMDA</h2>
+    <p>Merhaba ben Ege, 22 yaşındayım, Ankarada yaşıyorum. Bilgisayarla ilgilenmeyi, oyun oynamayı spor yapmayı severim. Fenerbahçeliyim</p>
+    <h3>Öğrenim geçmişim</h3>
+    <ul>
+        <li>Tuzluçayır İlkokulu</li>
+    
+        <li>Sibel İsmet Çatık Ortaokulu</li>
+    
+        <li>Başkent Anadolu Lisesi</li>
+    
+        <li>Sınav Anadolu Lisesi</li>
+    
+        <li>Ankara Üniversitesi</li>
+    </ul>
+    
+    <h2>İLGİ ALANLARIM</h2>
+<ol>
+    <li>Film-Dizi</li>
+        <ul>
+            <a href="https://www.beyazperde.com/" target="_blank"><li>Alacakaranlık</li></a>
+            <a href="#açıklama"><li>Gibi</li> </a>
+            <li>Son Yaz</li>
+        </ul>
+    <li>Oyun</li>
+        <ul>
+            <a href="https://playvalorant.com/" target="_blank"><li>Valorant</li></a>
+            <li>Rocket League</li>
+            <li>CS GO</li>
+        </ul>
+</ol>
+<img src="https://www.donanimhaber.com/images/images/haber/161768/src_340x1912xgibi-4-sezon-ne-zaman-yayinlanacak-gibi-4-sezon-fragmani.jpg" title="Gibi dizisinden bir kare">
+<p id="açıklama">Gibi, komedi türündeki Türk yapımı internet dizisidir. İlk bölümü 1 Ocak 2021 tarihinde yayımlanan dizinin başrollerinde Feyyaz Yiğit, Kıvanç Kılınç ve Ahmet Kürşat Öçalan yer almaktadır. Dizinin senaristliğini Aziz Kedi ile Feyyaz Yiğit üstlenmektedir.</p>
+</body>
+</html>
